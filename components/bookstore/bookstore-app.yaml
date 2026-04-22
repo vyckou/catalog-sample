@@ -2,8 +2,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: bookstore-web
-  description: Fake bookstore web frontend used for Backstage tryouts
+  name: bookstore-app
+  description: Fake bookstore app  used for Backstage tryouts
 spec:
   type: website
   lifecycle: production
